@@ -1,3 +1,3 @@
 const XTJS = {};
 
-exports.XTJS = XTJS;
+exports = XTJS;
